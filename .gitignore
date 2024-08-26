@@ -1,0 +1,6 @@
+*.o
+*.pdf
+*.txt
+intercept.c
+server
+intercept
